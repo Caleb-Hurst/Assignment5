@@ -1,4 +1,4 @@
 /bin/
-.classpath
-.gitattributes
-.project
+/classpath
+/gitattributes
+/project
